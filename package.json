@@ -118,7 +118,7 @@
     "mysql": "^2.15.0",
     "request": "^2.83.0",
     "sendgrid": "^5.2.3",
-    "stripe": "^8.107.0"
+    "stripe": "^8.213.0"
   },
   "resolutions": {
     "braces": ">=2.3.1",
